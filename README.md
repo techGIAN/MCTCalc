@@ -17,3 +17,7 @@ A calculator that computes the measures of central tendency of a group of intege
 ## License
 **MIT License** <br />
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+## Some Sources
+- https://khan4019.github.io/front-end-Interview-Questions/sort.html
+- https://www.sitepoint.com/community/t/calculating-the-average-mean/7302/3
