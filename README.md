@@ -9,10 +9,7 @@ A calculator that computes the measures of central tendency of a group of intege
 ![screenshot](sc.png)
 
 ## Instructions
-1. Download the following files: `index.html`, `mctCalc.css` and `mctCalc.js` and place them all in a single folder.
-2. Double click `index.html` to launch the calculator.
-3. Type in your integers in the input box, separated by commas.
-4. Click the `Calculate` button to get the mean, median and mode(s) of the group of numbers.
+Click <a href="http://htmlpreview.github.io/?https://github.com/techGIAN/MCTCalc/blob/master/index.html">here</a> to view
 
 ## License
 **MIT License** <br />
